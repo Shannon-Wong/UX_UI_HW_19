@@ -18,12 +18,11 @@ body {
   overflow: hidden;
 }
 .topnav a {
-  float: center;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 1.2vw;
 }
 .topnav a:hover {
   background-color: #ddd;
