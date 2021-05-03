@@ -150,14 +150,13 @@ h3{
     .modal-content {
       width: 100%;
     }
-  .flex-container {
-    margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 5%;
-    text-align: right;
-    justify-content: center;
-    display: inline-flex;
-    flex-direction: wrap;
+.aligned{
+  margin-top: 10%;
+}
+#img {  
+    width: 50%;  
+    height: 50%;
   }
- 
+  #th {
+text-align: left;
+  }
