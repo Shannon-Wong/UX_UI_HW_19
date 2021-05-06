@@ -152,11 +152,18 @@ h3{
     }
 .aligned{
   margin-top: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
 }
-#img {  
+.img {  
     width: 50%;  
     height: 50%;
   }
   #th {
 text-align: left;
+  }
+  #tr {
+    margin-top: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
   }
